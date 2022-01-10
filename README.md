@@ -10,7 +10,7 @@
 6. What are different types of tabs in Salesforce?<br>
 7. How to create, hide, show and include tabs in Salesforce?</h3><br>
 <h1>Day 2</h1>
-<h2> 10/01/2022</h2><br>
+<h2> 10/01/2022</h2>
 <h3>What are the different types of fields in Salesforce?<br>
 How to create a Field in Salesforce?<br>
 What are the datatypes of fields in Salesforce?</h3>
