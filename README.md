@@ -25,3 +25,9 @@ What are the datatypes of fields in Salesforce?</h3>
 5. What is the Controlling Field in Salesforce?<br>
 6. What is the Dependent Field in Salesforce?</h3>
 ----------------------------------------------------------------------------------------
+<h1>Day 3</h1>
+<h2> 14/01/22</h2>
+<h3>1. How to create a relationship between two objects?<br>
+2. How Salesforce uses the concept of Primary & Foreign Key in Salesforce?<br>
+3. What are relationships in Salesforce? <br>
+4. Types of relationships?
