@@ -31,3 +31,11 @@ What are the datatypes of fields in Salesforce?</h3>
 2. How Salesforce uses the concept of Primary & Foreign Key in Salesforce?<br>
 3. What are relationships in Salesforce? <br>
 4. Types of relationships?
+<h1>Day 5</h1>
+<h2> 23/01/22</h2>
+<h3>1. Salesforce Branding and UI Customization <br>
+2. Density Settings<br>
+3.  User Navigation Bar Customization<br>
+4. Salesforce Themes and Branding<br>
+5. Lightning Chrome Extension </h3><br>
+  
